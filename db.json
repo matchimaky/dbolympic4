@@ -1,0 +1,55 @@
+{
+    "country": [
+        {
+            "id": "CRO",
+            "name": "Croatia",
+            "description": "Croatia is known for its stunning Adriatic coastline, with over a thousand islands and historic towns like Dubrovnik. The country has a rich cultural heritage with influences from the Romans, Venetians, and Austro-Hungarians. Croatia’s economy is driven by tourism, agriculture, and shipbuilding."
+        },
+        {
+            "id": "CUB",
+            "name": "Cuba",
+            "description": "Cuba is known for its vibrant culture, particularly in music and dance, including salsa and mambo. The country has a socialist economy with significant state control. Cuba is also known for its historic architecture, particularly in Havana, and its healthcare and education systems."
+        },
+        {
+            "id": "BRN",
+            "name": "Bahrain",
+            "description": "Bahrain is a small island nation in the Persian Gulf, known for its financial sector and oil reserves. The country has a high standard of living and a diverse economy that includes banking, tourism, and natural gas. Bahrain is also known for its Formula 1 Grand Prix and as a cultural hub in the Gulf region."
+        },
+        {
+            "id": "SLO",
+            "name": "Slovenia",
+            "description": "Slovenia is known for its mountains, lakes, and historic towns. The country has a strong tradition of environmental protection and sustainable tourism. Slovenia is also known for its wine production and as a gateway between Central Europe and the Balkans."
+        },
+        {
+            "id": "TPE",
+            "name": "Chinese Taipei/Taiwan",
+            "description": "Taiwan, officially the Republic of China (ROC), is known for its high-tech industry, particularly in semiconductors. The country has a dynamic economy and a rich cultural heritage with influences from China, Japan, and indigenous cultures. Taiwan is also known for its night markets and vibrant democracy."
+        },
+        {
+            "id": "AUT",
+            "name": "Austria",
+            "description": "Austria is known for its musical heritage, particularly with composers like Mozart, Beethoven, and Strauss. The country has a rich cultural history, with well-preserved architecture from the Habsburg era. Austria is also known for its alpine skiing and as a popular tourist destination."
+        },
+        {
+            "id": "PHI",
+            "name": "Philippines",
+            "description": "The Philippines is an archipelago with over 7,000 islands, known for its rich biodiversity and cultural diversity. The country has a mixed economy with strong agricultural, industrial, and service sectors. The Philippines is also known for its vibrant festivals, hospitality, and resilient population."
+        },
+        {
+            "id": "HKG",
+            "name": "Hong Kong",
+            "description": "Hong Kong is a major financial center known for its skyscrapers, deep natural harbor, and as a global hub for trade and finance. The city has a unique blend of Eastern and Western cultures, with a high degree of autonomy under the 'one country, two systems' framework."
+        },
+        {
+            "id": "ALG",
+            "name": "Algeria",
+            "description": "Algeria is the largest country in Africa and is rich in natural resources, particularly oil and natural gas. The country has a diverse landscape, from the Mediterranean coast to the Sahara Desert. Algeria has a rich history with influences from Berber, Arab, and French cultures."
+        },
+        {
+            "id": "INA",
+            "name": "Indonesia",
+            "description": "Indonesia is the world’s largest archipelago and has the largest Muslim population. The country is known for its cultural diversity, with hundreds of ethnic groups and languages. Indonesia’s economy is diverse, with significant contributions from agriculture, mining, and manufacturing."
+        }
+    ]
+  }
+  
